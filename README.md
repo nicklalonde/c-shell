@@ -1,6 +1,6 @@
-My Shell (LALO Shell)
-a very lightweight, functional unix shell written in C. This project demonstrates core systems programming concepts including process creation, file descriptor manipulation, and inter-process-communication through piping.
-Features:
+## My Shell (LALO Shell)
+A very lightweight, functional unix shell written in C. This project demonstrates core systems programming concepts including process creation, file descriptor manipulation, and inter-process-communication through piping.
+## Features:
 **Command Execution**: Runs any standard Unix command using the `exec` family of system calls.
 **Piping**: Supports complex pipelines (e.g., `ls -l | grep ".c" | wc -l`).
 **I/O Redirection**: 
